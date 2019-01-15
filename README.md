@@ -9,7 +9,7 @@ You would need the following to access the website
 Smart phone/PC/laptop/Desktop/Tablet or any PDA *Internet connectivity (either wireless or ethernet), 
 * A web browser(Chrome is most recommendable)
 * To view the website click on this link 
-
+https://omukankurunziza.github.io/pig-dice/
 
 ## BDD
 This is a simple dice game where two players have the chance to roll the dice to try and achieve a score of 100. Each player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold".
